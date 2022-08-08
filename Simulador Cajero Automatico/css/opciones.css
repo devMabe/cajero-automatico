@@ -1,0 +1,98 @@
+.dineroCheck{
+	width: 350px;
+	height: 130px;
+	display: inline-block;
+	box-shadow: 1px 1px  9px  #808B96;
+	margin-top: 10%;
+	margin-left: 10%;
+	float: left;
+	background:   #F2F3F4;
+	font-family: monospace;
+	box-sizing: border-box;
+}
+
+.dineroCheck h2{
+	color: #5B2C6F;
+}
+
+.dineroCheck .caja1{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border: 1px solid #fff;
+	width: 90px;
+	height: 20px;
+	background:  #5B2C6F;
+	color: #F2F3F4;
+
+
+}
+
+
+.dineroCheck .caja2{
+	float: left;
+	margin-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #fff;
+	width: 90px;
+	height: 20px;
+	background:  #5B2C6F;
+	color: #F2F3F4
+}
+
+
+.dineroCheck .caja3{
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #fff;
+	width: 90px;
+	height: 20px;
+	background:  #5B2C6F;
+	color: #F2F3F4
+}
+
+
+.dineroCheck .caja4{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #fff;
+	width: 90px;
+	height: 20px;
+	background:  #5B2C6F;
+	color: #F2F3F4
+}
+
+.dineroCheck .caja5{
+	float: left;
+	margin-left: 15px;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+    border: 1px solid #fff;
+    width: 90px;
+    height: 20px;
+    background:  #5B2C6F;
+	color: #F2F3F4
+}
+
+.dineroCheck .caja6{
+	float: right;
+	margin-left: 10px;
+	padding-top: 10px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #fff;
+	width: 90px;
+	height: 20px;
+	background:  #5B2C6F;
+	color: #F2F3F4
+}
